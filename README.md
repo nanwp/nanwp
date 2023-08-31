@@ -24,7 +24,7 @@ I'm enthusiastic about collaborating on open-source projects or interesting comm
 ## Contact
 
 📧 You can contact me via email at [Email](mailto:nandaghalonk@gmail.com)
-💬 I'm also active on [LinkedIn](https://www.linkedin.com/in/nwp963)
+💬 I'm also active on [LinkedIn](https://www.linkedin.com/in/nwp96)
 
 ## Portfolio
 

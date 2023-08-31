@@ -23,12 +23,7 @@ I'm enthusiastic about collaborating on open-source projects or interesting comm
 
 ## Contact
 
-📧 You can contact me via email at [Email](mailto:nandaghalonk@gmail.com)
-💬 I'm also active on [LinkedIn](https://www.linkedin.com/in/nwp96)
+- 📧 You can contact me via email at [Email](mailto:nandaghalonk@gmail.com)
+- 💬 I'm also active on [LinkedIn](https://www.linkedin.com/in/nwp96)
 
-## Portfolio
-
-You can check out some of the projects I've worked on in [my portfolio](https://www.nandawijayaputra.my.id).
-
-Thanks for visiting my GitHub profile! I'm looking forward to contributing more to the Go developer community, continuously learning, and sharing knowledge. Feel free to explore my repositories and provide constructive feedback.
 

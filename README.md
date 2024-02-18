@@ -4,8 +4,8 @@
 Welcome to my GitHub profile! I'm a Backend Developer based in Indonesia 🇮🇩 with a keen interest in server-side application development and programming using the Go language.
 ## About Me
 
-- 🌆 Located in: Indonesia
-- 💼 Profession: Backend Engineer
+- 🌆 Located in: Indonesia, Bekasi
+- 💼 Profession: Backend Developer
 - 🛠️ Tech Stack: Go
 
 

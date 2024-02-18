@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Backend Developer based in Indonesia 🇮�
 ## About Me
 
 - 🌆 Located in: Indonesia, Bekasi
-- 💼 Profession: Backend Developer
+- 💼 Profession: Backend Engineer
 - 🛠️ Tech Stack: Go
 
 

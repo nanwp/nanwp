@@ -25,7 +25,7 @@ I'm enthusiastic about collaborating on open-source projects or interesting comm
 
 ## Contact
 
-- 📧 You can contact me via email at [Email](mailto:nandaghalonk@gmail.com)
+- 📧 You can contact me via email at [Email](mailto:nanwp.dev@gmail.com)
 - 💬 I'm also active on [LinkedIn](https://www.linkedin.com/in/nandawijayaputra)
 
 ## 💻 Tech Stack:
